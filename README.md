@@ -10,6 +10,7 @@ Example 1:
 
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
+
 Example 2:
 
 Input: strs = ["dog","racecar","car"]
@@ -35,6 +36,7 @@ strs[i] consists of only lowercase English letters if it is non-empty.
 
 Ввод: strs = ["flower","flow","flight"]
 Вывод:  "fl"
+
 Пример 2:
 
 Ввод: strs = ["dog","racecar","car"]
